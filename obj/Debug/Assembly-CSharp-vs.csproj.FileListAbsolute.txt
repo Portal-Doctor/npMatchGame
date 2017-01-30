@@ -1,0 +1,1 @@
+c:\Projects\Unity\Facebook\npMatchGame\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
